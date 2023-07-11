@@ -1,0 +1,15 @@
+[submodule "Part I"]
+	path = Part I
+	url = https://github.com/ssamadgh/PhotoScroller_Completed_Sample_Code_Part_I
+[submodule "Part II/Starter"]
+	path = Part II/Starter
+	url = https://github.com/ssamadgh/PhotoScroller_Starter_Sample_Code_Part_II
+[submodule "Part II/Completed"]
+	path = Part II/Completed
+	url = https://github.com/ssamadgh/PhotoScroller_Completed_Sample_Code_Part_II
+[submodule "Part III/Starter"]
+	path = Part III/Starter
+	url = https://github.com/ssamadgh/PhotoScroller_Starter_Sample_Code_Part_III
+[submodule "Part III/Completed"]
+	path = Part III/Completed
+	url = https://github.com/ssamadgh/PhotoScroller_Completed_Sample_Code_Part_III
